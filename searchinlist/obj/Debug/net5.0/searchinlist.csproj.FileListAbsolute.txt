@@ -1,0 +1,16 @@
+/home/gfkl/Desktop/davaleba5/searchinlist/bin/Debug/net5.0/searchinlist
+/home/gfkl/Desktop/davaleba5/searchinlist/bin/Debug/net5.0/searchinlist.deps.json
+/home/gfkl/Desktop/davaleba5/searchinlist/bin/Debug/net5.0/searchinlist.runtimeconfig.json
+/home/gfkl/Desktop/davaleba5/searchinlist/bin/Debug/net5.0/searchinlist.runtimeconfig.dev.json
+/home/gfkl/Desktop/davaleba5/searchinlist/bin/Debug/net5.0/searchinlist.dll
+/home/gfkl/Desktop/davaleba5/searchinlist/bin/Debug/net5.0/ref/searchinlist.dll
+/home/gfkl/Desktop/davaleba5/searchinlist/bin/Debug/net5.0/searchinlist.pdb
+/home/gfkl/Desktop/davaleba5/searchinlist/obj/Debug/net5.0/searchinlist.csprojAssemblyReference.cache
+/home/gfkl/Desktop/davaleba5/searchinlist/obj/Debug/net5.0/searchinlist.GeneratedMSBuildEditorConfig.editorconfig
+/home/gfkl/Desktop/davaleba5/searchinlist/obj/Debug/net5.0/searchinlist.AssemblyInfoInputs.cache
+/home/gfkl/Desktop/davaleba5/searchinlist/obj/Debug/net5.0/searchinlist.AssemblyInfo.cs
+/home/gfkl/Desktop/davaleba5/searchinlist/obj/Debug/net5.0/searchinlist.csproj.CoreCompileInputs.cache
+/home/gfkl/Desktop/davaleba5/searchinlist/obj/Debug/net5.0/searchinlist.dll
+/home/gfkl/Desktop/davaleba5/searchinlist/obj/Debug/net5.0/ref/searchinlist.dll
+/home/gfkl/Desktop/davaleba5/searchinlist/obj/Debug/net5.0/searchinlist.pdb
+/home/gfkl/Desktop/davaleba5/searchinlist/obj/Debug/net5.0/searchinlist.genruntimeconfig.cache

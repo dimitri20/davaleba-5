@@ -1,0 +1,16 @@
+/home/gfkl/Desktop/davaleba5/multipleOfTen/bin/Debug/net5.0/multipleOfTen
+/home/gfkl/Desktop/davaleba5/multipleOfTen/bin/Debug/net5.0/multipleOfTen.deps.json
+/home/gfkl/Desktop/davaleba5/multipleOfTen/bin/Debug/net5.0/multipleOfTen.runtimeconfig.json
+/home/gfkl/Desktop/davaleba5/multipleOfTen/bin/Debug/net5.0/multipleOfTen.runtimeconfig.dev.json
+/home/gfkl/Desktop/davaleba5/multipleOfTen/bin/Debug/net5.0/multipleOfTen.dll
+/home/gfkl/Desktop/davaleba5/multipleOfTen/bin/Debug/net5.0/ref/multipleOfTen.dll
+/home/gfkl/Desktop/davaleba5/multipleOfTen/bin/Debug/net5.0/multipleOfTen.pdb
+/home/gfkl/Desktop/davaleba5/multipleOfTen/obj/Debug/net5.0/multipleOfTen.csprojAssemblyReference.cache
+/home/gfkl/Desktop/davaleba5/multipleOfTen/obj/Debug/net5.0/multipleOfTen.GeneratedMSBuildEditorConfig.editorconfig
+/home/gfkl/Desktop/davaleba5/multipleOfTen/obj/Debug/net5.0/multipleOfTen.AssemblyInfoInputs.cache
+/home/gfkl/Desktop/davaleba5/multipleOfTen/obj/Debug/net5.0/multipleOfTen.AssemblyInfo.cs
+/home/gfkl/Desktop/davaleba5/multipleOfTen/obj/Debug/net5.0/multipleOfTen.csproj.CoreCompileInputs.cache
+/home/gfkl/Desktop/davaleba5/multipleOfTen/obj/Debug/net5.0/multipleOfTen.dll
+/home/gfkl/Desktop/davaleba5/multipleOfTen/obj/Debug/net5.0/ref/multipleOfTen.dll
+/home/gfkl/Desktop/davaleba5/multipleOfTen/obj/Debug/net5.0/multipleOfTen.pdb
+/home/gfkl/Desktop/davaleba5/multipleOfTen/obj/Debug/net5.0/multipleOfTen.genruntimeconfig.cache
